@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4210bdb1-f503-42e9-a220-a1bd21b46d5e" name="Changes" comment="" />
+    <list default="true" id="4210bdb1-f503-42e9-a220-a1bd21b46d5e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/commons-math-legacy/src/test/java/org/apache/commons/math4/legacy/filter/KalmanFilterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/commons-math-legacy/src/test/java/org/apache/commons/math4/legacy/filter/KalmanFilterTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +34,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/ewaldo.junior/Desktop/commons-math"
+    "last_opened_file_path": "C:/Users/ewaldo.junior/Desktop/LazyTest-commons-math"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
